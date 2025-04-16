@@ -45,13 +45,16 @@ export function Success() {
                   1x Café Expresso       R$ 9,90
                   </strong>
 
-1x Café Expresso       R$ 9,90
-2x Cappuccino          R$ 21,80
-Frete (2 itens)        R$ 7,50
---------------------------
-Total:                 R$ 39,20
-
-💳 Método de Pagamento: Pix
+                  1x Café Expresso       R$ 9,90
+                  2x Cappuccino          R$ 21,80
+                  Frete (2 itens)        R$ 7,50
+                  <br/>
+                  --------------------------
+                  <br/>
+                  Total:                 R$ 39,20
+                  <br/>
+                  💳 Método de Pagamento: Pix
+                  <br/>
                   <strong>
                     
                   </strong>
